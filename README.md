@@ -30,7 +30,7 @@
         </tbody>
     </table>
 
-# Repositorio de Backend Desarrollo de Software
+# Repositorio de Backend
 
 Visita el repositorio haciendo clic en el siguiente enlace:
 
